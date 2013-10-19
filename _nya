@@ -39,7 +39,7 @@ option +history
 option +nullcomplete
 option +tilde
 option +glob
-option prompt $e[31;40;1m[$w]$_$$ $e[37;1m
+option prompt $e[31;40;1m[$P]$_$$ $e[37;1m
 option uncompletechar ,;=``
 
 # _nya.d\ 以下のスクリプトをロードする
