@@ -1,0 +1,1 @@
+set TERM=msys
