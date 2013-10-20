@@ -3,7 +3,7 @@ _nya
 
 ## Abstract
 
-This is configuration files of [Nyaos 3.x](http://www.nyaos.org/).
+This is a set of configuration files for [Nyaos 3.x](http://www.nyaos.org/).
 
 
 ## License
